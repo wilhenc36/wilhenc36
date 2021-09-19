@@ -1,4 +1,4 @@
-### Hey there, I'm Wilhen Cruz 👋 :man:+:computer: 
+### Hey there, I'm Wilhen Cruz 👋 :man:🔴 :computer: 
 
 <img src="https://github.com/wilhenc36/wilhenc36/blob/main/banner.png">
 
