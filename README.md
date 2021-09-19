@@ -2,6 +2,8 @@
 
 <img src="https://github.com/wilhenc36/wilhenc36/blob/main/banner.png">
 
+I'm software developer who is pasionate to create new technologies for companies or entrepreneur businesses and improve some them. I enjoy working on the server side as well as on the frontend, creating desktop systems, app croos-platform too with technologies like NodeJS (JavaScript, Express, APIRestFul), ReactJS (JavaScript, API), Windows and Xamarin Forms (C#). 
+
 <!--
 **wilhenc36/wilhenc36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
