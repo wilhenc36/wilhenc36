@@ -1,6 +1,6 @@
 ### Hey there, I'm Wilhen Cruz 👋👨‍💻
 
-![banner](https://raw.githubusercontent.com/wilhenc36/wilhenc36/img/banner.png)
+![banner](https://raw.githubusercontent.com/wilhenc36/wilhenc36/main/img/banner.png)
 
 I'm software developer who is passionate to create new technologies for companies or entrepreneur businesses and improve some them. I enjoy working on the server side as well as on the frontend, creating desktop systems and Apps croos-platform too with technologies like <a href="https://nodejs.dev/learn/introduction-to-nodejs">NodeJS</a> (JavaScript, Express, APIRestFul), <a href="https://reactjs.org/docs/getting-started.html">ReactJS</a> (JavaScript, API), <a href="https://docs.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-5.0">Windows</a> and <a href="https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin">Xamarin Forms</a> (C#). My interest in this world of development is to help people and companies to make their daily tasks or processes more efficient and effective and continue enjoying, learning and improving in this beautiful world.
 
