@@ -1,4 +1,4 @@
-### Hey there, I'm Wilhen Cruz 👋 :man::join::computer: 
+### Hey there, I'm Wilhen Cruz 👋 :man::computer: :nurse:
 
 <img src="https://github.com/wilhenc36/wilhenc36/blob/main/banner.png">
 
