@@ -1,6 +1,6 @@
 ### Hey there, I'm Wilhen Cruz 👋
 
-<img src="">
+<img src="https://github.com/wilhenc36/wilhenc36/blob/main/banner.png">
 
 <!--
 **wilhenc36/wilhenc36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
